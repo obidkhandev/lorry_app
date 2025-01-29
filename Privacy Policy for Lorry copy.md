@@ -1,4 +1,4 @@
-Privacy Policy for Lorry Agent
+Privacy Policy for Lorry Driver Mini
 
 Privacy Policy
 Last updated: November 21, 2024
@@ -18,9 +18,9 @@ Account means a unique account created for You to access our Service or parts of
 
 Affiliate means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 
-Application refers to Lorry Agent, the software program provided by the Company.
+Application refers to Lorry Driver Mini, the software program provided by the Company.
 
-Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Lorry Agent.
+Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Lorry Driver mini.
 
 Country refers to: Uzbekistan
 
@@ -137,5 +137,5 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
 
-By email: sectorsoftteam@gmail.com
+By email: forappstore527@gmail.com
 Generated using TermsFeed Privacy Policy Generator
